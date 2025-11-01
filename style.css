@@ -79,7 +79,7 @@ nav ul li a {
   font-size: 25px;
   padding: 100px 20px;
   min-height: 400px;
-  background-image: url('../images/varsity.jpg'); 
+  background-image: url('varsity.jpg'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -526,5 +526,6 @@ footer {
 .dropdown:hover > a::after {
   color: #ffcc00;
 }
+
 
 
